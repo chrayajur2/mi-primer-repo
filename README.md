@@ -5,3 +5,4 @@ Instrucciones pendientes.
 # mi-primer-repo
 Cambio propuesto
 Editado desde Codespaces
+Comentario añadido por Alejandro Samuel, compañero de Christopher
